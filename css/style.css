@@ -1,0 +1,27 @@
+.w2ui-sidebar .w2ui-sidebar-div .w2ui-selected:before {
+  border: 0px dashed #eee;
+}
+
+.w2ui-sidebar .w2ui-sidebar-div .w2ui-selected.w2ui-inactive:before {
+  border: 0px dashed transparent !important;
+}
+
+ .w2ui-sidebar{
+    background-color: #eaeaea!important;
+
+}
+
+.w2ui-sidebar .w2ui-sidebar-div .w2ui-node{
+
+    background-color: #eaeaea!important;
+}
+
+
+.w2ui-sidebar .w2ui-sidebar-top .w2ui-flat-left, .w2ui-sidebar .w2ui-sidebar-top .w2ui-flat-right{
+
+    background-color: #eaeaea!important;
+} 
+
+.toast-message {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
